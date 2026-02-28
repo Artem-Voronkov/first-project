@@ -27,6 +27,3 @@ cd my\_project
 git init
 
 ```
-
-
-
